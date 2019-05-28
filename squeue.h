@@ -20,3 +20,5 @@ private:
 	void fill_pop_stack();
 };
 
+#include "squeue.hpp"
+
