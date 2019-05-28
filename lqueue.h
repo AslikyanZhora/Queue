@@ -24,3 +24,5 @@ private:
 	Node* m_front;
 	Node* m_back;
 };
+
+#include "lqueue.hpp"
