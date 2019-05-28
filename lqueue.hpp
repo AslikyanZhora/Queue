@@ -1,6 +1,6 @@
 #pragma once
 
-#include "lqueue.hpp"
+#include "lqueue.h"
 
 template <typename T>
 LQueue<T>::LQueue() :m_front(nullptr), m_back(nullptr)
