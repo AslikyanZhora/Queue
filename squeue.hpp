@@ -1,6 +1,6 @@
 #pragma once
 
-#include "squeue.hpp"
+#include "squeue.h"
 
 template <typename T>
 void SQueue<T>::push(const T& val)
